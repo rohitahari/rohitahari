@@ -1,14 +1,16 @@
-Hi, I'm Rohit
-I build software systems focused on automation, data analytics, and backend services.
+Hi, I'm Rohit Ahari
+I build software systems focused on backend development, automation, and data analytics.
+
 Projects
-• Sales Report Automation
- Automates report generation from CSV data using Python and Pandas.
-• Task Manager Web Application
- Full-stack task management app built with FastAPI, SQLite, and JavaScript.
-• Business Analytics Dashboard
- Interactive dashboard for exploring sales data built with Streamlit and Plotly.
-• CSV Analytics API
- API service that analyzes uploaded CSV datasets and returns structured analytics.
+Sales Report Automation
+Automates generation of business reports from CSV datasets using Python and Pandas.
+Task Manager Web Application
+A full-stack task management system built with FastAPI, SQLite, and JavaScript.
+Business Analytics Dashboard
+Interactive dashboard for analyzing sales data built with Streamlit and Plotly.
+CSV Analytics API
+API service that analyzes uploaded CSV datasets and returns structured analytics.
+
 Technologies
 Python
  FastAPI
@@ -16,8 +18,18 @@ Python
  Pandas
  Plotly
  SQLite
-Interests
+ Git
+
+Areas of Interest
 Backend systems
  Data analytics tools
  Automation software
+ API development
+
+Current Focus
+Building practical software systems and expanding knowledge of backend architecture, data pipelines, and scalable applications.
+
+GitHub
+https://github.com/rohitahari
+
 

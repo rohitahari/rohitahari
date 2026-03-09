@@ -1,4 +1,4 @@
-# Hi, I'm Rohit Ahari
+## Hi, I'm Rohit Ahari
 
 I build software systems focused on backend development, automation, and data analytics.
 

@@ -1,47 +1,57 @@
-# Hi, I'm Rohit Ahari
+# Rohit Ahari
 
-I build software systems focused on backend development, automation, and data analytics.
+Backend developer focused on building scalable API systems and backend infrastructure.
 
-# Projects
-### Sales Report Automation
+## Backend Projects
 
-Automates generation of business reports from CSV datasets using Python and Pandas.
+### URL Shortener
+FastAPI + PostgreSQL + Redis
 
-### Task Manager Web Application
+A URL shortening service with database persistence and Redis caching.
 
-A full-stack task management system built with FastAPI, SQLite, and JavaScript.
+### Distributed Job Queue
+FastAPI + Celery + Redis
 
-### Business Analytics Dashboard
+A background task processing system using Celery workers and Redis queues.
 
-Interactive dashboard for analyzing sales data built with Streamlit and Plotly.
+### API Rate Limiter
+FastAPI + Redis
 
-### CSV Analytics API
+A middleware-based rate limiting system that protects APIs from excessive requests.
 
-API service that analyzes uploaded CSV datasets and returns structured analytics.
+---
 
-### Technologies
+## Tech Stack
 
-Python
-FastAPI
-Streamlit
-Pandas
-Plotly
-SQLite
-Git
+Python  
+FastAPI  
+Redis  
+PostgreSQL  
+Celery  
+SQLAlchemy
 
-### Areas of Interest
+---
 
-Backend systems
-Data analytics tools
-Automation software
-API development
+## Systems I Enjoy Building
 
-### Current Focus
+API services  
+Distributed systems  
+Background job processing  
+Backend infrastructure  
+Developer tools
 
-Building practical software systems and expanding knowledge of backend architecture, data pipelines, and scalable applications.
+---
 
-### GitHub
+## Currently Learning
 
-https://github.com/rohitahari
+Distributed backend architectures  
+Scalable API systems  
+System design
 
+---
 
+## GitHub Projects
+
+- URL Shortener
+- Job Queue System
+- API Rate Limiter

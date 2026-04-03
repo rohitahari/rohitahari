@@ -1,57 +1,41 @@
-# Rohit Ahari
 
-Backend developer focused on building scalable API systems and backend infrastructure.
+# Hi, I'm Rohit 👋
 
-## Backend Projects
+Backend Developer focused on solving real-world problems.
 
-### URL Shortener
-FastAPI + PostgreSQL + Redis
+## What I do
+- Build and fix APIs (FastAPI, Python)
+- Authentication systems (JWT, secure login)
+- Database design & debugging
+- Performance optimization & caching
 
-A URL shortening service with database persistence and Redis caching.
+## Projects
 
-### Distributed Job Queue
-FastAPI + Celery + Redis
+### 🔐 Auth Service
+- JWT authentication system
+- Secure password hashing
+- Login / Register APIs
 
-A background task processing system using Celery workers and Redis queues.
+### ⚡ API Cache System
+- Redis-based caching
+- Reduced database load
+- Faster response times
 
-### API Rate Limiter
-FastAPI + Redis
+### 🔗 URL Shortener
+- Short link generation
+- Redirect system
+- Database + caching
 
-A middleware-based rate limiting system that protects APIs from excessive requests.
+### 🧵 Job Queue System
+- Background job processing
+- Async task handling
 
----
+### 🚦 Rate Limiter
+- API request limiting
+- Prevents abuse
 
 ## Tech Stack
+Python, FastAPI, PostgreSQL, Redis, SQLAlchemy
 
-Python  
-FastAPI  
-Redis  
-PostgreSQL  
-Celery  
-SQLAlchemy
-
----
-
-## Systems I Enjoy Building
-
-API services  
-Distributed systems  
-Background job processing  
-Backend infrastructure  
-Developer tools
-
----
-
-## Currently Learning
-
-Distributed backend architectures  
-Scalable API systems  
-System design
-
----
-
-## GitHub Projects
-
-- URL Shortener
-- Job Queue System
-- API Rate Limiter
+## Contact
+Open to freelance work and backend problem-solving.

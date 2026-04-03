@@ -1,7 +1,10 @@
-
 # Hi, I'm Rohit 👋
 
-Backend Developer I fix APIs, authentication issues, and backend bug fast. 
+Backend Developer | I fix broken APIs, auth issues, and backend bugs fast
+
+✔ Built multiple backend systems (auth, caching, queues, rate limiting)
+✔ Focused on quick debugging and reliable fixes
+
 
 👉 I focus on solving real backend problems quickly and clearly — not just writing code.
 
@@ -22,17 +25,19 @@ Fixes common login/signup issues using secure JWT authentication
 
 
 ### ⚡ API Cache System
-Speeds up slow APIs by reducing database load using Redis caching.
+Fixes slow API performance by reducing database load using Redis caching
 - Redis-based caching
 - Reduced database load
 - Faster response times
 
 ### 🔗 URL Shortener
+Handles link generation and redirection efficiently with database + caching
 - Short link generation
 - Redirect system
 - Database + caching
 
 ### 🧵 Job Queue System
+Handles background tasks reliably using async job processing
 - Background job processing
 - Async task handling
 
@@ -48,8 +53,11 @@ Open to freelance backend work.
 I can help fix bugs, APIs, authentication, or performance issues.
 
 ## What I can help you with
-- API not working
-- Login/auth issues
+- API not working or failing
+- Login / authentication issues
 - Slow backend performance
-- Database errors
+- Database errors and bugs
+
+👉 If your backend is not working as expected, I can help fix it quickly.
+
 

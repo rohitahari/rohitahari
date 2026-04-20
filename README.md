@@ -1,63 +1,75 @@
-# Hi, I'm Rohit 👋
+# Rohit Ahari ⚡ Backend Systems Engineer
 
-Backend Developer | I fix broken APIs, auth issues, and backend bugs fast
+I build backend systems that **don’t break under real usage**.
 
-✔ Built multiple backend systems (auth, caching, queues, rate limiting)
-✔ Focused on quick debugging and reliable fixes
+Focused on solving real problems:
+- API abuse
+- Weak authentication
+- Slow performance
+- Unreliable backend systems
 
+---
 
-👉 I focus on solving real backend problems quickly and clearly — not just writing code.
+## 🚀 What I Do
 
+I help developers and startups:
 
-## What I do
-- Fix broken APIs and backend bugs quickly
-- Build secure authentication systems (JWT, login/signup)
-- Optimize slow APIs using caching (Redis)
-- Debug database and performance issues
+- Secure APIs (JWT, API keys)
+- Prevent abuse (rate limiting)
+- Improve performance (Redis caching)
+- Handle async workloads (job queues)
+- Fix broken backend systems fast
 
-## Projects
+---
 
-### 🔐 Auth Service
-Fixes common login/signup issues using secure JWT authentication
-- Secure password hashing
-- Login / Register APIs
-- Token-based authentication
+## 🧠 Core System
 
+### API Control Platform
 
-### ⚡ API Cache System
-Fixes slow API performance by reducing database load using Redis caching
-- Redis-based caching
-- Reduced database load
-- Faster response times
+A complete backend system designed to:
 
-### 🔗 URL Shortener
-Handles link generation and redirection efficiently with database + caching
-- Short link generation
-- Redirect system
-- Database + caching
+- Manage API access (API keys)
+- Enforce rate limits
+- Track usage per user
+- Prevent abuse early
 
-### 🧵 Job Queue System
-Handles background tasks reliably using async job processing
-- Background job processing
-- Async task handling
+👉 Built for real-world scaling problems
 
-### 🚦 Rate Limiter
-- API request limiting
-- Prevents abuse
+🔗 Demo: [Add your Loom link]  
+🔗 Repo: [Add repo link]
 
-## Tech Stack
-Python, FastAPI, PostgreSQL, Redis, SQLAlchemy
+---
 
-## Contact
-Open to freelance backend work.
-I can help fix bugs, APIs, authentication, or performance issues.
+## ⚙️ Backend Systems Built
 
-## What I can help you with
-- API not working or failing
-- Login / authentication issues
-- Slow backend performance
-- Database errors and bugs
+- 🔐 Authentication System (JWT, secure login)
+- ⚡ API Caching System (Redis, performance boost)
+- 🚦 Rate Limiter (API protection)
+- 🧵 Job Queue (async task processing)
+- 🔗 URL Shortener (DB + caching system)
 
-👉 If your backend is not working as expected, I can help fix it quickly.
+---
 
+## 🛠 Tech Stack
 
+Python • FastAPI • PostgreSQL • Redis • SQLAlchemy
+
+---
+
+## 💡 What I Can Help With
+
+- API not working / failing
+- Authentication issues
+- Backend performance problems
+- Database errors
+- API abuse (no rate limiting)
+
+---
+
+## 🤝 Work With Me
+
+If you're building something and want a backend that actually holds up:
+
+👉 Reach out
+
+I focus on **clean, reliable systems — not overengineered code.**

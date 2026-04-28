@@ -35,8 +35,8 @@ A complete backend system designed to:
 
 👉 Built for real-world scaling problems
 
-🔗 Demo: [Add your Loom link]  
-🔗 Repo: [Add repo link]
+🔗 Demo: [https://www.loom.com/share/7006b1576cb74833b8628bb0db300c5a]  
+🔗 Repo: [https://github.com/rohitahari/api-control-platform]
 
 ---
 
